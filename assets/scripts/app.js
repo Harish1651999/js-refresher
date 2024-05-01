@@ -10,6 +10,8 @@
 
 // console.log(content);
 
-const userMessage = "Hello World";
+// const userMessage = "Hello World";
 
-console.log(userMessage);
+// console.log(userMessage);
+
+console.log("hello" + "world");
