@@ -14,4 +14,10 @@
 
 // console.log(userMessage);
 
-console.log("hello" + "world");
+// console.log("hello" + "world");
+
+function greet() {
+  console.log("Hello!");
+}
+
+greet();
