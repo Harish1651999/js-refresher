@@ -16,8 +16,22 @@
 
 // console.log("hello" + "world");
 
-function greet() {
-  console.log("Hello!");
-}
+// function createGreeting(userName, message = "Hello!") {
+//   // console.log(userName);
+//   // console.log(message);
+//   return "Hi, I am " + userName + ". " + message;
+// }
 
-greet();
+// const greet1 = createGreeting("Max");
+// console.log(greet1);
+
+// const greet2 = createGreeting("Harish", "Hello, what's up?");
+// console.log(greet2);
+
+// Exercise
+// function combine(a, b, c) {
+//   return (a * b) / c;
+// }
+
+// const result = combine(11, 2, 2);
+// console.log(result);
