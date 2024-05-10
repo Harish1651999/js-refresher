@@ -35,3 +35,29 @@
 
 // const result = combine(11, 2, 2);
 // console.log(result);
+
+// const user = {
+//   name: "Harish",
+//   age: 24,
+//   greet() {
+//     console.log("Hello!");
+//   },
+// };
+
+// console.log(user);
+// user.greet();
+
+// class User {
+//   constructor(name, age) {
+//     this.name = name;
+//     this.age = age;
+//   }
+
+//   greet() {
+//     console.log("Hi!");
+//   }
+// }
+
+// const user1 = new User("Max", 34);
+// console.log(user1);
+// user1.greet();
