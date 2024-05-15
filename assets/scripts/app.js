@@ -61,3 +61,16 @@
 // const user1 = new User("Max", 34);
 // console.log(user1);
 // user1.greet();
+
+// const hobbies = ["Sports", "Cooking", "Reading"];
+// console.log(hobbies[0]);
+
+// hobbies.push("Working");
+// console.log(hobbies);
+
+// const index = hobbies.findIndex((item) => item === "Sports");
+
+// console.log(index);
+
+// const edittedHobbies = hobbies.map((item) => ({ text: item }));
+// console.log(edittedHobbies);
