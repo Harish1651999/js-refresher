@@ -74,3 +74,24 @@
 
 // const edittedHobbies = hobbies.map((item) => ({ text: item }));
 // console.log(edittedHobbies);
+
+// Destructuring
+
+// const [firstName, lastName] = ["Harish", "Kumar"];
+
+// const firstName = userNameData[0];
+// const lastName = userNameData[1];
+
+// console.log(firstName);
+// console.log(lastName);
+
+// const { name: userName, age } = {
+//   name: "Harish",
+//   age: 25,
+// };
+
+// console.log(userName);
+// console.log(age);
+
+// const name = user.name;
+// const age = user.age;
