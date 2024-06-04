@@ -95,3 +95,24 @@
 
 // const name = user.name;
 // const age = user.age;
+
+//The Spread Operator
+
+// const hobbies = ["Sports", "Cooking"];
+
+// const newHobbies = ["Reading"];
+
+// const mergedHobbies = [...hobbies, ...newHobbies];
+// console.log(mergedHobbies);
+
+// const user = {
+//   name: "Harish",
+//   age: 25,
+// };
+
+// const extendedUser = {
+//   isAdmin: true,
+//   ...user,
+// };
+
+// console.log(extendedUser);
