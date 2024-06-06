@@ -129,8 +129,42 @@
 //   console.log("Access not granted.");
 // }
 
-const hobbies = ["Sports", "Cooking"];
+// const hobbies = ["Sports", "Cooking"];
 
-for (const hobby of hobbies) {
-  console.log(hobby);
-}
+// for (const hobby of hobbies) {
+//   console.log(hobby);
+// }
+
+// Functions as Values
+
+// function handleTimeout() {
+//   console.log("Timed out!");
+// }
+
+// const handleTimeout2 = () => {
+//   console.log("Timed out ...again!");
+// };
+
+// setTimeout(handleTimeout, 2000);
+// setTimeout(handleTimeout2, 3000);
+// setTimeout(() => {
+//   console.log("More timing out...");
+// }, 4000);
+
+// function greeter(greetFn) {
+//   greetFn();
+// }
+
+// greeter(() => console.log("Hi"));
+
+// Defining Functions Inside Of Functions
+
+// function init() {
+//   function greet() {
+//     console.log("Hii");
+//   }
+
+//   greet();
+// }
+
+// init();
