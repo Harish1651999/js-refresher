@@ -168,3 +168,13 @@
 // }
 
 // init();
+
+// Reference vs Primitive Values
+
+// let userMessage = "Hello!";
+// userMessage = userMessage.concat("!!!");
+// console.log(userMessage);
+
+// const hobbies = ["Sports", "Cooking"];
+// hobbies.push("Working");
+// console.log(hobbies);
